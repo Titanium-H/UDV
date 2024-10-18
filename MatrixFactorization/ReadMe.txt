@@ -1,0 +1,1 @@
+We prepared TestMe_simple.m for quick testing. For the paper, we ran TestMain_distance and TestMain_stepsize with various parameters on the cluster and combined the results for plotting. The specific parameter choices used can be found in the bash files in the slurmJob folder.
